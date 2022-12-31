@@ -21,3 +21,18 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Rust
+gifportal/debug/
+gifportal/target/
+gifportal/Cargo.lock
+
+gifportal/**/*.rs.bk
+gifportal/*.pdb
+
+gifportal/.anchor
+gifportal/.DS_Store
+gifportal/target
+gifportal/**/*.rs.bk
+gifportal/node_modules
+gifportal/test-ledger
