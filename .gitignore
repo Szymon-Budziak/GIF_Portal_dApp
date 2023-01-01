@@ -36,3 +36,4 @@ gifportal/target
 gifportal/**/*.rs.bk
 gifportal/node_modules
 gifportal/test-ledger
+gifportal/program_id.txt
